@@ -1,0 +1,105 @@
+{
+	fileLength: 17
+}
+{
+	index: 0, 
+	name: "Beryllium", 
+	massRr: 8, 
+	hTime: 7.0000e-17
+}
+{
+	index: 1, 
+	name: "Kol", 
+	massRr: 14, 
+	hTime: 1.7237e+11
+}
+{
+	index: 2, 
+	name: "Kvave", 
+	massRr: 13, 
+	hTime: 6.0000e+02
+}
+{
+	index: 3, 
+	name: "Jarn", 
+	massRr: 52, 
+	hTime: 2.9880e+04
+}
+{
+	index: 4, 
+	name: "Jod", 
+	massRr: 128, 
+	hTime: 1.5000e+03
+}
+{
+	index: 5, 
+	name: "Jod", 
+	massRr: 131, 
+	hTime: 6.9120e+05
+}
+{
+	index: 6, 
+	name: "Cesium", 
+	massRr: 137, 
+	hTime: 9.0720e+08
+}
+{
+	index: 7, 
+	name: "Bly", 
+	massRr: 209, 
+	hTime: 1.1520e+04
+}
+{
+	index: 8, 
+	name: "Bly", 
+	massRr: 210, 
+	hTime: 6.6528e+08
+}
+{
+	index: 9, 
+	name: "Bly", 
+	massRr: 211, 
+	hTime: 1.0886e+09
+}
+{
+	index: 10, 
+	name: "Bly", 
+	massRr: 214, 
+	hTime: 1.6200e+03
+}
+{
+	index: 11, 
+	name: "Vismut", 
+	massRr: 211, 
+	hTime: 1.2600e+02
+}
+{
+	index: 12, 
+	name: "Radon", 
+	massRr: 219, 
+	hTime: 4.0000e+00
+}
+{
+	index: 13, 
+	name: "Radon", 
+	massRr: 220, 
+	hTime: 5.6000e+01
+}
+{
+	index: 14, 
+	name: "Radon", 
+	massRr: 222, 
+	hTime: 3.2832e+05
+}
+{
+	index: 15, 
+	name: "Radium", 
+	massRr: 224, 
+	hTime: 3.1104e+05
+}
+{
+	index: 16, 
+	name: "Uran", 
+	massRr: 233, 
+	hTime: 4.8384e+12
+}
